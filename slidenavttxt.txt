@@ -1,0 +1,8 @@
+<div id="mySidenav" class="sidenav">
+<img class="profile" src="1.jpg" alt="Avatar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="#"><i class="fa fa-home" style="font-size:25px"></i>Home</a>
+  <a href="#"><i class="fa fa-fire" style="font-size:25px"></i>Trending</a>
+  <a href="#"><i class="fa fa-thumbs-up" style="font-size:24px"></i>Liked videos</a>
+</div>
+ <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
